@@ -1,5 +1,5 @@
 // Assignment code here
-
+console.log("hello")
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
